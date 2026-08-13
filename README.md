@@ -85,6 +85,3 @@ streamlit run app.py
 * Improved conversational memory
 * Persistent vector database
 
-## 👨‍💻 Author
-
-**Akash S Ari**
